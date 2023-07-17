@@ -2,7 +2,8 @@
 
 This is the implementation of "CCBERT: Self-Supervised Code Change Representation Learning" published in the research track in ICSME 2023. 
 
-
+## Download Replication package
+Please download it from this link: https://zenodo.org/record/8153733
 
 
 ## Setup conda environment
